@@ -1,0 +1,7 @@
+{
+  "region": "Western Americas",
+  "language": "eng",
+  "tldb_prices_url": "https://<PON_AQUI_LA_URL_QUE_DE_XYO>",
+  "ocr_psm": 6
+  "ocr_preprocess": "binary" 
+}
